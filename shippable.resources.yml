@@ -13,7 +13,7 @@ resources:
     integration: github   #REPLACE THIS WITH YOUR GITHUB INTEGRATION
     pointer:
       sourceName: ambarish2012/sample_pipelines_terraform  #REPLACE nanishas WITH YOUR org name
-      branch: demo_pipelines
+      branch: demo_pipeline
 
   # env vars for Terraform scripts
   - name: params-tfScripts
